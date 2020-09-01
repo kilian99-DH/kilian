@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Hip-Hop DJ</title>
+    <meta charset="utf-8">
+  </head>
+
+ <body>
+   <h1><a href="1.html".html">DJ</a></h1>
+   <ol>
+   <li><a href="2.html">Hip Hop DJ</a></li>
+   <li><a href="3.html">Party DJ</a></li>
+   <li><a href="4.html">Hip Hop Producer</a></li>
+   <li><a href="5.html">Turntablist</a></li>
+  </ol>
+
+
+
+   <br><br>
+
+   <p><img src="club in the party dj.jpg"width="50%">
+    <h2><strong>Party DJ</strong></h2>첫 번째 유형으로, 힙합DJ의 본령에 충실하게 파티 등에서 라이브로 비트매칭을 하며
+      <br> 파티의 음악과 분위기를 이끌어가는 경우가 있다.
+      <br> 이러한 유형은 단지 플레이하는 음악의 장르가 힙합에 한정된다는 측면만 제외하면
+      <br> 후술할 일렉트로니카 DJ와 거의 동일하다.
+      <br> 보통 이러한 유형의 힙합 DJ들이 전문적으로 따로 있는 경우는 드물고,
+      <br> 대부분의 힙합DJ들이 클럽이나 파티 등에서 플레이를 할 때는 이러한 파티DJ의 역할을 하는 경우가 많다.
+      <br> 즉 유명한 턴테이블리스트도, 유명한 힙합 프로듀서도 클럽 등에서는 이러한 역할을 수행하는 것이다.
+      <br> 스트릿댄스 배틀 등에서 음악을 플레이하는 '배틀 DJ' 역시 이러한 유형에 포함된다고 볼 수 있다.</p>
+    </body>
+  </html>
